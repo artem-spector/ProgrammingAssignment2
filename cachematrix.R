@@ -43,6 +43,3 @@ cacheSolve <- function(x, ...) {
     res
 }
 
-testCache <- function(x) {
-    
-}
